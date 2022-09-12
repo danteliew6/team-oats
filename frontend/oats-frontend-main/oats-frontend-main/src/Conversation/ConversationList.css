@@ -1,0 +1,16 @@
+.inboxSector{
+	padding: 20px;
+	height: 89vmin;
+}
+
+.chatBtn{
+	float: right;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.active {
+	background-color: #88baef !important;
+}

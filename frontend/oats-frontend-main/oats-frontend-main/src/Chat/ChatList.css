@@ -1,0 +1,61 @@
+.messages{
+  padding: 0px 15px;
+}
+
+.chatMessage {
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  display: table;
+}
+
+.box {
+  padding: 3px 8px;
+  border-radius: 25%;
+}
+
+.own {
+  margin-left: auto !important;
+  background-color: #0566cd !important;
+  color: white;
+}
+
+.other{
+  background-color: #ffffff;
+}
+
+.system{
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center;
+  width: 80%;
+}
+
+.system b {
+  font-size: 0.6em;
+}
+
+.system .warning{
+  color: red;
+}
+
+.system .good{
+  color: green;
+}
+
+.systemMessage button{
+  width: 100%;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+
+.systemButton button{
+  color: black;
+  font-weight: 900;
+}
+
+.systemButton button:nth-child(n+2){
+  margin-left: 10px;
+}
+

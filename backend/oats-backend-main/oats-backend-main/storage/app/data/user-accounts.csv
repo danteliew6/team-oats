@@ -1,0 +1,9 @@
+id,username,name,email,password,caroupoint,remember_token
+1,test,test,test@email.com,password123,100,NULL
+2,test2,test2,test2@email.com,password123,100,NULL
+3,dante,Dante,dante@email.com,password123,97,NULL
+4,engsiang,Eng Siang,esteo@email.com,password123,81,NULL
+5,jordan,Jordan,jordan@email.com,password123,100,NULL
+6,weijie,Wei Jie,weijie@email.com,password123,100,NULL
+7,wanting,Wan Ting,wanting@email.com,password123,100,NULL
+8,extra,extra,extra@email.com,password123,100,NULL
